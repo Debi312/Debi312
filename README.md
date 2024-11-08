@@ -11,12 +11,10 @@
 
  </br>
 
-<p align="left">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=debi312.debi312" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visitas-0-ff6e96?style=for-the-badge&labelColor=282a36" />
-  </a>
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Debi312&style=for-the-badge&color=ff6e96" />
   <a href="https://www.github.com/Debi312" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Debi312?logo=github&style=for-the-badge&color=ff6e96&labelColor=282a36" />
+    <img src="https://img.shields.io/github/followers/Debi312?logo=github&style=for-the-badge&color=ff6e96" />
   </a>
 </p>
 
